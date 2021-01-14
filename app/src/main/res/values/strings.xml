@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AccuWeather</string>
+
+    <string name="today_in">Today in</string>
+    <string name="high_low_temp">High %1$d °C / Low %2$d °C</string>
+    <string name="temp">%1$d °C</string>
+    <string name="current_temp">Current %1$d °C</string>
+    <string name="search_hint">Search in your city</string>
+    <string name="news_title">News Highlights</string>
+    <string name="news_source">By %1$s</string>
+
+    <plurals name="next_x_days">
+        <item quantity="one">Next %1$d day</item>
+        <item quantity="other">Next %1$d days</item>
+    </plurals>
+
+</resources>
